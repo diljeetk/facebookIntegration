@@ -5,11 +5,11 @@ Integration with  Facebook using JavaScript SDK
 
 Description for social-media-service
 
-**Update 2017-08-30**: Updated to match errbot skeleton templates
+**Update 2017-09-01**: Updated to match errbot skeleton templates
 
 ### Technologies
 
-* **Runtime:** NodeJS 6.7+
+* **Runtime:** NodeJS 8+
 * **Build:** Webpack
 * **Frontend:** React 15.3 / Redux 3.6 
 * **Koa:** 1.2
